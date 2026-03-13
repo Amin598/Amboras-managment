@@ -248,6 +248,66 @@ Running notes on what we're seeing across all reviews. Update this as new review
 
 ---
 
+## New Patterns from Quora Research (March 2026)
+
+### No Marketplace = No Traffic (NEW — Quora-specific angle)
+- Shopify charges fees but provides zero organic discovery (unlike Etsy, Amazon)
+- "Shopify is a total waste of money. They charge a percentage while providing zero traffic"
+- "Shopify traffic is solely dependent upon the seller's ability to market"
+- Merchants expected a marketplace, got a blank storefront
+- **Amboras angle:** Built-in discovery/marketplace layer or AI-powered traffic generation tools
+
+### Predatory Expert Ecosystem (NEW)
+- "All those call themselves 'experts' are scammers — they want me to pay them then block me"
+- Fake Shopify experts impersonating real ones via phishing emails
+- Shopify Partners Slack reported 6+ months of impersonation scams (Oct 2025)
+- No vetting, no accountability for "experts" in the ecosystem
+- **Amboras angle:** Vetted partner network or eliminate the need for experts entirely via AI
+
+### Platform Profits from Merchant Failure (NEW — damning Quora sentiment)
+- "In my opinion the only people that make money from Shopify dropshipping is Shopify"
+- "The way they have things set up they seem to want you to fail and go away"
+- Platform incentives misaligned: Shopify profits from subscriptions regardless of merchant success
+- **Amboras angle:** Revenue model aligned with merchant outcomes — succeed together or not at all
+
+### Product Variant Limits (NEW — technical frustration)
+- 100 variants / 3 options per product is a hard ceiling
+- 5+ Quora threads specifically about bypassing this limit
+- Workarounds: third-party apps or catalog restructuring (both bad)
+- Merchants with complex catalogs (clothing, custom products) hit this immediately
+- **Amboras angle:** No arbitrary variant limits, flexible product modeling
+
+### Deceptive Pricing Structure (NEW — Quora-specific)
+- Advertised at $30/mo, but tax/customs features require $300/mo plan
+- 2-2.5% penalty for using third-party payment processors
+- International transactions cost 4-6% combined
+- Shopify keeps processing fees on full refunds (refund fee retention)
+- "Everything useful costs extra" — app stack balloons to hundreds/month post-launch
+- **Amboras angle:** Transparent all-in pricing, no hidden fees, no refund fee retention
+
+### Outdated Theme Technology (NEW)
+- Themes "not using state of the art technologies"
+- Modernizing existing themes is "not a trivial task"
+- Inflexible layouts — "section arrangements essentially set in stone"
+- Font choices limited to handful of Google Fonts
+- Premium themes $180-380, then $500-5,000 for customization, then $1,000-3,000/mo maintenance
+- **Amboras angle:** Modern component system (React/JSX), AI-assisted theme building
+
+### Analytics Wall (NEW)
+- "Built-in dashboard is great for basic sales totals but hits a wall as the business grows"
+- No actionable insights for scaling businesses
+- Conversion diagnostics missing — "zero add-to-carts" with no tools to diagnose why
+- **Amboras angle:** AI-powered analytics that tell merchants what to do, not just what happened
+
+### False Expectation Pipeline (NEW — validated from multiple Quora threads)
+- Merchants build store expecting sales to follow automatically
+- "The platform is JUST the beginning" — but nothing communicates this upfront
+- 30% of new merchants abandon stores entirely due to "steeper than expected" learning curve
+- 70% cart abandonment with no tools to reduce it
+- **Amboras angle:** Guided onboarding, AI sales coaching, conversion optimization built-in
+
+---
+
 ## Open Questions
 
 - What's the #1 thing merchants say they wish Shopify would just do for them?

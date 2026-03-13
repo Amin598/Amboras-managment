@@ -1694,3 +1694,949 @@ Collected from Reddit (r/shopify, r/ecommerce), Shopify Community forums, and Tr
 > Getting traffic but no conversions. "Lots of visits but no add-to-carts." Conversion rates stubbornly below 1%. Psychological toll of watching hundreds leave empty-handed. Shopify provides no tools to diagnose or fix conversion issues.
 
 **Key issue:** Platform offers zero conversion optimization help
+
+---
+
+## Store Terminations & Shutdowns
+
+---
+**Source:** [Shopify repeatedly shuts down stores for no reason](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**Platform:** Shopify Community
+**User:** shoptopdrop
+**Date:** July 16, 2020
+
+> Lost $50,000+ across three incidents. Store shut down after scaling from $500 to $10,000 daily sales. "NO ACCESS TO ADMIN FEATURES. No ability to fulfill orders, email customers, manage databases, transfer information." Shut down for being "SUCCESSFUL TOO FAST."
+
+**Key issue:** Store terminated for growing too fast, $50K+ lost
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** behandy
+**Date:** March 1, 2023
+
+> "They let you start, make sales, have costs like paying for domain and ad costs and after a couple of sales they just shut you down."
+
+**Key issue:** Shut down after investing in ads/domain
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** Hypehunters
+**Date:** March 19, 2023
+
+> "The two days were over the weekend! By the time I got to my office on Monday... my whole website got disabled."
+
+**Key issue:** Insufficient notice period
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** ahmadalabhar
+**Date:** April 4, 2023
+
+> "Just uploaded my first product and was decorating my store." Cited for "breaching sec 7" for selling a simple electric shoe dryer. "3 days for a reply... decision is final and no explanation was given." Store shut permanently.
+
+**Key issue:** Terminated before even opening, for a harmless product
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** KapitiHobbies
+**Date:** February 1, 2024
+
+> Lost ~$10,000. One-day notice via email buried in alert clutter. Had a 5+ year history with Shopify. "Chat have 'tried' to help but says its with legal and they can't do anything." "This issue was dealt with when we first set our store up... no-one at shopify is checking our stores history."
+
+**Key issue:** Long-term customer terminated without proper review
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** Sean_75
+**Date:** May 1, 2024
+
+> Suspended 8.5 days with no explanation. "If they unsuspend an account after a review, they are in effect admitting that the reason they suspended the account in the first place is unproven/invalid." "OVER 2 weeks to review information... is unreasonable by any standard." Estimated $10K+ loss; received one-month credit as compensation.
+
+**Key issue:** Unjustified suspension, minimal compensation
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** ReasonablyUpset
+**Date:** June 30, 2024
+
+> Managed a charity shop project. "Months of prep and tons of $ spent... Months to 7 days later... Shopify just killed the site." "I must have sent in 50 tickets." Lost job, professional reputation damaged, multi-year project ended. "Because we can... we have a policy now that says we can do whatever we want." Shopify refused to provide 1099 tax forms, was 5 months late.
+
+**Key issue:** Charity project destroyed, career impact, withheld tax docs
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** Jez0311
+**Date:** February 16, 2024
+
+> Shut down within 24 hours of starting a free trial. "On the first day of my trial I started to set up a home page... Next morning... taken down." "Can't work with these people, it's ridiculous."
+
+**Key issue:** Terminated during free trial before even launching
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** S0pifySteals
+**Date:** January 20, 2023
+
+> Lost $5,000 in sales. "Shopify takes my store down... very fishy and I think Shopify is doing this to steal small business money."
+
+**Key issue:** Funds seized during shutdown
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-repeatedly-shuts-down-stores-for-no-reason/td-p/810602)
+**User:** gentlecrystals
+**Date:** March 22, 2021
+
+> "Denied the access of even our own store's admin panel." Paid for plan but denied access. Suggested affected merchants consolidate for potential legal action.
+
+**Key issue:** Paying customer denied access to own data
+
+---
+**Source:** [Shopify Terminated Our Store with No Warning](https://community.shopify.com/c/shopify-discussions/shopify-terminated-our-store-with-no-warning-we-need-help/m-p/3044987)
+**User:** NiceTimeGlass
+**Date:** May 17, 2025
+
+> "No specifics. No warning. No chance to fix anything. Just gone." Women-owned glass gallery in Asheville, NC. Lost all customer data and email contacts. $500 Shopify POS hardware rendered useless. All funds frozen. Couldn't fulfill outstanding orders. "They can provide zero information or timeline because it's the 'trust team' who has to review my appeal."
+
+**Key issue:** Legitimate brick-and-mortar business terminated with no explanation
+
+---
+**Source:** [Store suspended without any warning](https://community.shopify.com/c/shopify-discussions/store-suspended-without-any-warning/m-p/2339706)
+**User:** Earlyprime
+**Date:** December 1, 2023
+
+> "Black Friday week shopify suspended our online store without any notification or asking if we operate in Russia!!!" Store offline 12+ hours with no dashboard access; hundreds of pending orders; Google Shopping ads disapproved. Claims ~500k GBP annual revenue and 20k customers affected.
+
+**Key issue:** Store suspended during Black Friday, massive revenue loss
+
+---
+**Source:** [Shopify continuously shutting down store for no reason](https://community.shopify.com/t/shopify-continously-shutting-down-store-for-no-reason/367026)
+**User:** SuperUser124
+**Date:** October 17, 2024
+
+> "Every time I open a new shopify store, it gets taken down IMMEDIATELY." "I've talked to support twice now... It's always the same thing... 'I'll escalate this.'" "This has been going on for years."
+
+**Key issue:** Repeated store shutdowns, no explanation, support just "escalates"
+
+---
+**Source:** [Shopify ban/blacklist on all accounts](https://community.shopify.com/c/shopify-discussions/shopify-ban-blacklist-on-all-accounts/td-p/2913224)
+**User:** ecomseller1
+**Date:** January 14, 2025
+
+> "Every time I open a Shopify store, it gets taken down IMMEDIATELY (this has been going on since around April 2024)." New credit cards, devices, internet providers don't help — entering legal name triggers instant bans. Multiple appeal forms submitted with no response for months. Shopify was their primary income source.
+
+**Key issue:** Permanent blacklist, identity-based flagging, no appeals process, livelihood destroyed
+
+---
+
+## Payment Holds & Frozen Funds
+
+---
+**Source:** [Shopify Payments Frozen for 7+ Days](https://community.shopify.com/c/shopify-discussions/shopify-payments-frozen-for-7-days-business-at-standstill/td-p/2855111)
+**User:** omarrzzk
+**Date:** November 22, 2024
+
+> Account frozen under review with "promised 2-day review" that extended beyond 7 days. "No communication from the payments team." "Over 10 support contacts with no help." "All my funds are locked." Filed 6 separate support tickets with no resolution. Cannot pay suppliers or process orders.
+
+**Key issue:** Funds frozen, business at standstill
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-payments-frozen-for-7-days-business-at-standstill/td-p/2855111)
+**User:** kateland
+**Date:** January 21, 2025
+
+> Waiting 3 weeks with multiple tickets and no resolution. "My business is dead in the water." Spent marketing budget but cannot process new orders.
+
+**Key issue:** Weeks-long payout hold destroying business
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/shopify-payments-frozen-for-7-days-business-at-standstill/td-p/2855111)
+**User:** DSDBoutique
+**Date:** March 13, 2025
+
+> Nearly 20 days without payout. Completed all requested documentation. Describes situation as "panicked and distressed."
+
+**Key issue:** 20-day payment hold despite compliance
+
+---
+**Source:** [Why is Shopify holding my funds for 120 days?](https://community.shopify.com/c/payments-shipping-and/why-is-shopify-holding-my-funds-for-120-days/m-p/2204182)
+**User:** retroclothing
+**Date:** August 30, 2023
+
+> $25,000 held for 120 days. "Funds are being held for 120 days and I can't use Shopify Payments anymore." Unable to continue manufacturing/shipping operations.
+
+**Key issue:** $25k frozen for 120 days, business operations halted
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/payments-shipping-and/why-is-shopify-holding-my-funds-for-120-days/m-p/2204182)
+**User:** JackDaniels23
+**Date:** August 31, 2023
+
+> "My entire business was gone overnight" after account suspension. Shopify counted manual cancellations as returns, miscalculating return ratio. Funds frozen in "Reserve Fund" with no access to working capital. Had taken Shopify Capital loan. Business reputation destroyed.
+
+**Key issue:** Business destroyed overnight, funds frozen due to miscalculation, no recourse
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/payments-shipping-and/why-is-shopify-holding-my-funds-for-120-days/m-p/2204182)
+**User:** minimalist3312
+**Date:** January 26, 2024
+
+> Pursuing legal action to recover held funds. Outsourced support team unable to provide meaningful answers.
+
+**Key issue:** Forced to pursue legal action to recover own money
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/payments-shipping-and/why-is-shopify-holding-my-funds-for-120-days/m-p/2204182)
+**User:** UKPreppingShop
+**Date:** March 3, 2024
+
+> ~$10,000 held indefinitely post-closure. Contacting Canadian government departments to recover funds.
+
+**Key issue:** $10k held even after store closure, contacting government for help
+
+---
+
+## Chargebacks & Fraud
+
+---
+**Source:** [Why are we losing all chargeback disputes?](https://community.shopify.com/c/shopify-discussions/why-are-we-losing-all-chargeback-disputes-even-with-good/m-p/1925094)
+**User:** Bont
+**Date:** January 31, 2023
+
+> "Yesterday I lost a case where a customer ordered the wrong size item... we shipped what the customer ordered." Lost the product, shipping fee, and all other fees.
+
+**Key issue:** Losing chargeback despite fulfilling order correctly
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/why-are-we-losing-all-chargeback-disputes-even-with-good/m-p/1925094)
+**User:** GiveThemaBrake
+**Date:** March 9, 2023
+
+> "You are screwed and Shopify will not lift a finger to help." "We lose all the chargebacks that come across our way." "We have an $800 chargeback open... we refunded $650 already." "If we lose... we're going to lose the full $800 + the $650 we already refunded."
+
+**Key issue:** Double loss on chargebacks (refund + chargeback), Shopify won't help
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/why-are-we-losing-all-chargeback-disputes-even-with-good/m-p/1925094)
+**User:** Pripri
+**Date:** March 12, 2023
+
+> "Credit card company told us they were not getting the chargeback info from Shopify." "The system is not even connected to send info to credit card companies." "Shopify does not give them the message we put in the shop."
+
+**Key issue:** Shopify chargeback system not actually sending evidence to banks
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/why-are-we-losing-all-chargeback-disputes-even-with-good/m-p/1925094)
+**User:** joemany911
+**Date:** January 13, 2024
+
+> "I lost a charge back for $3200... he got it for free." "I just wonder now if Shopify even sent info to his bank."
+
+**Key issue:** $3,200 chargeback loss, suspicion Shopify didn't submit evidence
+
+---
+**Source:** [Suddenly covered in fraudulent chargebacks](https://community.shopify.com/t/suddenly-covered-in-fraudulent-chargebacks/588268)
+**User:** shopfy-2020
+**Date:** February 13, 2026
+
+> "As of 2026 we are covered in fraudulent chargebacks with buyer not even having to return goods and banks approve the chargebacks, giving them free goods plus money back! This is completely unsustainable."
+
+**Key issue:** Surge in friendly fraud, buyers keep goods + get refund
+
+---
+**Source:** [9 Hidden Problems Shopify Store Owners Face](https://mktclarity.com/blogs/news/problems-shopify-users)
+**Platform:** Market Clarity (aggregating Reddit)
+
+> "Each chargeback costs you the product, shipping fees, plus a $15-25 dispute fee from Shopify." Banks side with customers 80% of the time regardless of evidence. One documented case: "$4,200 chargeback can end a small business overnight." Average loss: $800/month for affected merchants.
+
+**Key issue:** Chargebacks destroy small businesses, Shopify doesn't protect merchants
+
+---
+
+## Shopify AI (Sidekick/Magic) Hallucinations
+
+---
+**Source:** [Warning: Shopify AI hallucinates technical data and sabotages strategic SEO](https://community.shopify.com/t/warning-shopify-ai-sidekick-magic-hallucinates-technical-data-and-sabotages-strategic-seo/589483)
+**User:** Dawsonx
+**Date:** February 24-27, 2026
+
+> AI invented alphanumeric codes, breaking catalog organization. Negative constraints (forbidden terms) were disregarded. Meta title/description character limits exceeded. AI ignored instructions entirely. Had to review 80+ products manually. "Treating your catalog as a playground for 'creative' errors." Shopify support confirmed: no setting to prevent hallucinations. Sidekick acknowledged as suitable only for "prose," not "exact data."
+
+**Key issue:** AI hallucinations corrupt product data, no safeguards
+
+---
+
+## POS (Point of Sale) Issues
+
+---
+**Source:** [Reasons Why The New POS Sucks And We Are Leaving](https://community.shopify.com/t/reasons-why-the-new-pos-sucks-and-we-are-leaving/27359)
+**User:** eyeclothingco
+**Date:** December 6, 2020
+
+> Nobody has the time or care to want to learn a whole new layout. Checkout times increased rather than improved. Exchanges require $90/month POS Pro add-on. $2,136 annual cost increase. Cart-saving feature removed. 7-year failure to merge duplicate customer profiles.
+
+**Key issue:** POS redesign increased costs and removed features
+
+---
+**Source:** [Same thread](https://community.shopify.com/t/reasons-why-the-new-pos-sucks-and-we-are-leaving/27359)
+**User:** Rivertowninkery
+**Date:** December 2020
+
+> "The worst system I have ever used in retail." New system removed basic functions without improvement.
+
+**Key issue:** POS regression
+
+---
+**Source:** [Same thread](https://community.shopify.com/t/reasons-why-the-new-pos-sucks-and-we-are-leaving/27359)
+**User:** Willoworchid
+**Date:** April 18, 2021
+
+> Integrated credit card processing was wiped out. Manual entry now required. "The company cares not one iota for their customer base."
+
+**Key issue:** POS payment processing broken
+
+---
+**Source:** [Same thread](https://community.shopify.com/t/reasons-why-the-new-pos-sucks-and-we-are-leaving/27359)
+**User:** lennygx
+**Date:** October 8, 2023
+
+> "Literally the worst POS software I have ever used." System confuses printers, card readers, scanners. $30/month required for essential tools.
+
+**Key issue:** POS hardware incompatibility, paywalled features
+
+---
+
+## Analytics & Reporting Breakdowns
+
+---
+**Source:** [Major Problem with New Reports/Analytics](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** seller6565
+**Date:** January 17, 2025
+
+> "A report I used that was absolutely essential to my business is gone, it was customers over time."
+
+**Key issue:** Essential reports removed in update
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** as268
+**Date:** January 17, 2025
+
+> "The new reporting is terrible. It's overcomplicated and unnecessary — I feel like whoever designs this is not a merchant."
+
+**Key issue:** New analytics overcomplicated, designed by non-merchants
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** Shhh1
+**Date:** January 18, 2025
+
+> "I cant even find how many products were Added to Cart!! All i needed was basic info... but now that is all gone."
+
+**Key issue:** Basic metrics hidden or removed
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** MichaelBates
+**Date:** January 18, 2025
+
+> "The data is rubbish... they have advised that it will take 72 hours after sales before the information is updated."
+
+**Key issue:** 72-hour data lag, inaccurate data
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** HAUSWITCH
+**Date:** January 18, 2025
+
+> "The new reporting is horrible. One of the only reports I use is impossible to figure out now."
+
+**Key issue:** Critical reports broken in update
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** belovedbones
+**Date:** January 21, 2025
+
+> "Literally insane to me that the most basic data is seemingly impossible to obtain in one single report."
+
+**Key issue:** Basic data requires multiple reports
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** twirlingb
+**Date:** January 21, 2025
+
+> "IT IS A REAL NIGHTMARE... any of my metrics do make sense. They are all wrong based on the excel file."
+
+**Key issue:** Metrics don't match actual data
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/major-problem-with-new-reports-analytics/td-p/2917360)
+**User:** Gidion
+**Date:** January 28, 2025
+
+> "It's a bit ridiculous to force us to write SQL Queries in order to pull a simple report."
+
+**Key issue:** Requires SQL knowledge for basic reports
+
+---
+**Source:** [Why update to the new analytics if it is now inaccurate?](https://community.shopify.com/t/why-update-to-the-new-analytics-if-it-is-now-inaccurate/414157)
+**User:** bryan76
+**Date:** May 14, 2025
+
+> "I am looking at two reports side by side of add to cart, reached checkout and they are different." "What was wrong with the old analytics? It worked much better."
+
+**Key issue:** New analytics worse than old, contradictory data
+
+---
+**Source:** [Shopify Analytics Issues 2025](https://reportgenix.com/shopify-analytics-issues-2025/)
+**Platform:** ReportGenix (aggregating merchant reports)
+**Date:** 2024-2025
+
+> Analytics running 12-24 hours behind during peak sales. Black Friday reporting delays extend to 24+ hours. Payment processors show 150 orders while Shopify analytics displays only 120. Revenue discrepancies of 15-30%. Up to 60% of traffic shows as 'Direct' when it came from other channels. Conversion rates jump between 0.1% and 50% daily. Bot traffic inflates sessions by up to 40%. One clothing brand wasted $15,000 on TikTok ads due to attribution errors.
+
+**Key issue:** Inaccurate analytics, data lag, attribution failures, $15K wasted on ads
+
+---
+
+## Product Editor & Admin Performance
+
+---
+**Source:** [Product Description Lag](https://community.shopify.com/t/product-description-lag-product-page-in-admin/382194)
+**User:** ECS_NW
+**Date:** December 20, 2024
+
+> "Every button actions take about a second for the system to perform." "I type a sentence and I have to wait to see if shopify actually picked up each keystroke." "I have to wait for the sentence to be written out then press the backspace which does not register in the GUI for a second or more each time."
+
+**Key issue:** Product description editor extremely laggy, keystroke delay
+
+---
+**Source:** [Theme code editor has become slow/laggy](https://community.shopify.com/t/is-it-me-or-shopify-theme-code-editor-has-become-slow-laggy/386392)
+**User:** Farhan3
+**Date:** January 11, 2025
+
+> "Shopify theme code editor feels laggy and slow after the recent Shopify updates." "Selecting a variable/class name, moving a part of code from one place to another within the same file i.e. copy/pasting feels laggy."
+
+**Key issue:** Theme code editor lag after updates
+
+---
+**Source:** [Bulk editor slow with more than 10 variants](https://community.shopify.com/c/site-speed/product-editor-laggy/td-p/1535710)
+**User:** GasTees
+**Date:** March 26, 2022
+
+> "Waiting upwards of 5 minutes for the page to respond or save changes on 10+ variants/products." "Currently waiting for the number 3 I pressed on my keyboard to write onto the selected variant boxes."
+
+**Key issue:** Bulk editor freezes, 5-minute waits
+
+---
+
+## Blog Feature
+
+---
+**Source:** [Why is the Blog feature so bad?](https://community.shopify.com/c/shopify-discussions/why-is-the-blog-feature-so-bad-are-they-looking-to-improve-this/m-p/2819036)
+**User:** KatiKaia
+**Date:** October 21, 2024
+
+> "Not only does it look terrible on the page compared to other sites we have used, but the SEO is not great." Lacks "features for adding buttons or links or download pdf."
+
+**Key issue:** Blog looks terrible, missing basic features
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/why-is-the-blog-feature-so-bad-are-they-looking-to-improve-this/m-p/2819036)
+**User:** paperandwax
+**Date:** October 23, 2024
+
+> "Shopify doesn't bother with it because it makes more money letting third parties create apps to fill in the gaps for their horrible blog." Merchants "nickel and dimed to death just for something as basic as a decent blog."
+
+**Key issue:** Blog deliberately neglected to drive app revenue
+
+---
+
+## High Fees & Hidden Costs
+
+---
+**Source:** [Shopify Transaction Fees Suck](https://directpaynet.com/shopify-transaction-fees-suck-2025/)
+**Date:** 2025
+
+> For $20,000 in monthly online sales: $580 in transaction fees alone. For $50,000 monthly through alternative processors: extra $1,000 monthly ($12,000 annually) due to 2% third-party payment penalty. No volume discounts available.
+
+**Key issue:** High transaction fees, forced vendor lock-in to Shopify Payments
+
+---
+**Source:** [Why I Switched from WordPress to Shopify Then Back Again — My $8K Lesson](https://programminginsider.com/why-i-switched-from-wordpress-to-shopify-then-back-again-my-8k-lesson/)
+**Date:** 2025
+
+> Monthly costs increased from $89 (WordPress) to $287 (Shopify with necessary apps). Migration cost $3,200. Return migration to WordPress: $4,800. Total loss: $8,000. Sales dropped 18% within two months because "customers were used to my old checkout flow, the new one confused them."
+
+**Key issue:** $8K lesson, hidden app costs, conversion rate decline after migration
+
+---
+**Source:** [Why you should avoid Shopify](https://www.proteusthemes.com/blog/why-you-should-avoid-shopify/)
+
+> App costs add up fast: Subscriptions $39.99/month, pre-orders $24.95/month, exit-intent popups/cart recovery $24/month. Combined: "$90/month on top of Shopify's monthly plans." Only 71 themes in the official store; themes cost "$140 to $180" vs WordPress themes at "around $80."
+
+**Key issue:** App dependency and expensive themes
+
+---
+**Source:** [ShopWired - Hidden costs of Shopify in the UK](https://www.shopwired.co.uk/blog/the-hidden-costs-of-shopify)
+
+> UK merchants report effective rates of 5% or more once card fees, conversion charges and third-party surcharges are added up. A £100 order could cost £5.60 in fees, wiping out a third of profit margin.
+
+**Key issue:** International merchants hit hardest by fee stacking
+
+---
+**Source:** [Shopify payment processing fees](https://www.airwallex.com/ca/blog/shopify-payment-processing-fees-hidden-costs-killing-margins)
+**Date:** 2025
+
+> Currency conversion fees add approximately 1% to each international transaction. Combined with standard processing fees, international sales can cost merchants 4% to 6% per transaction.
+
+**Key issue:** International transaction fees stack up to 6%
+
+---
+
+## Checkout Limitations
+
+---
+**Source:** [Shopify Checkout Limitations](https://blog.shift4shop.com/shopify-checkout-limitations)
+
+> Cannot alter checkout layout or functionality without Shopify Plus ($2,000+/month). Cannot add custom fields, banners, logos, promotional images. Cannot switch to one-page checkout. Cannot control order summary panel on mobile. "The checkout pages are shared across the platform, making it impossible to add design elements, scripts, customize the fields, and more."
+
+**Key issue:** Checkout locked down unless paying $2K+/month
+
+---
+
+## SEO Structural Problems
+
+---
+**Source:** [Shopify SEO challenges: platform architecture limitations](https://www.notprovided.eu/shopify-seo-challenges-platform-architecture-limitations-and-workarounds/)
+
+> Products must live at /products/, collections at /collections/, and pages at /pages/ with no modification. Hierarchical structures like /clothing/shirts/blue-tee cannot be created. Products assigned to multiple collections generate duplicate content via separate URLs. Server log access completely unavailable. Default themes wrap store logo in H1 tags incorrectly. Title tags limited to 70 characters. Product variants share identical meta data. One documented case showed millions of indexed pages when it should have had ~200.
+
+**Key issue:** Rigid URL structure, duplicate content, no server-level SEO control
+
+---
+**Source:** [Shopify SEO Problems](https://flaircommerce.com/guides/shopify-seo-problems/)
+
+> Shopify generates duplicate product URLs across collections (e.g., `/products/slug` AND `/collections/collection-name/products/slug`), diluting ranking power. "Shopify only allows a single subfolder per collection or product." Breadcrumbs reference wrong collections. Each blog tag creates thin content pages penalized by Google.
+
+**Key issue:** Structural SEO problems baked into the platform
+
+---
+
+## Enterprise Support Failure (Paid 24/7 Help)
+
+---
+**Source:** [Paid for 24/7 help, stuck with a bot](https://completeaitraining.com/news/paid-for-247-help-stuck-with-a-bot-shopifys-ai-support-push/)
+**User:** Olivia Sawyer, CEO of Kush Queen
+**Date:** November 2025
+
+> Pays "tens of thousands per year" for 24/7 help and dedicated support. "The AI is just not there for customer support." Her team hasn't heard from their dedicated rep in approximately two years.
+
+**Key issue:** Enterprise customers abandoned by support, paying tens of thousands for nothing
+
+---
+**Source:** [Same article](https://completeaitraining.com/news/paid-for-247-help-stuck-with-a-bot-shopifys-ai-support-push/)
+**User:** Randy Graham, e-commerce manager at Twistedsage Studios
+**Date:** November 2025
+
+> Experienced account access issue where banking details were changed and became locked out. "It caused a lot of grief." Had to rebuild operations on another platform and cut staff hours due to lost revenue.
+
+**Key issue:** Account security incident + no support access
+
+---
+
+## "Businesses Should Steer Clear of Shopify"
+
+---
+**Source:** [Businesses should steer clear of Shopify](https://community.shopify.com/t/businesses-should-steer-clear-of-shopify/578330)
+**User:** rosenbe
+**Date:** December 4, 2025
+
+> "Entered into AI-Hell, with a chat bot that could not answer my questions." "WOULD NOT refer me to an actual human being." "Every email address I could find was deactivated." "Shopify has chosen to hide behind AI to shield itself from its customers."
+
+**Key issue:** AI-Hell, no human contact possible, deactivated email addresses
+
+---
+
+## "Does Anyone Else Hate Shopify?"
+
+---
+**Source:** [Does anyone else hate Shopify?](https://community.shopify.com/c/shopify-discussions/does-anyone-else-hate-shopify/m-p/2483149)
+**User:** TechnoProbs
+**Date:** March 9, 2024
+
+> "Every day new updates that don't work, constantly being logged out and losing entries." Photos repeatedly delete requiring re-upload. Inventory sync failures between stores.
+
+**Key issue:** Buggy platform, data loss, sync failures
+
+---
+**Source:** [Same thread](https://community.shopify.com/c/shopify-discussions/does-anyone-else-hate-shopify/m-p/2483149)
+**User:** Sheba12
+**Date:** March 11, 2024
+
+> "They're absolutely impossible to reach for support. You will never, ever get to actually speak to someone." Support directs users to contact support when solutions aren't available — circular.
+
+**Key issue:** Unreachable support, circular help system
+
+---
+**Source:** [Shopify is so bad?](https://community.shopify.com/t/shopify-is-so-bad/364287)
+**User:** sonify199
+**Date:** October 7, 2024
+
+> "Now, I add it there. Oh and it also put this into ALL my pages!! How funny is this platform! If I remove that section, GUESS WHAT, it also removes everything." "Sorry but it's stupid."
+
+**Key issue:** Confusing theme template system
+
+---
+
+## Vendor Lock-in & Data Portability
+
+---
+**Source:** [Why you should avoid Shopify](https://www.proteusthemes.com/blog/why-you-should-avoid-shopify/)
+
+> If you migrate, you only get "a CSV of your products." Design, blog posts, policies, and other pages must be "recreated from scratch." Liquid is proprietary — your theme code is useless elsewhere.
+
+**Key issue:** Vendor lock-in, can't take your work with you
+
+---
+
+## Shipping Rate Issues
+
+---
+**Source:** [UPS Shipping rates wrong at checkout](https://community.shopify.com/t/ups-shipping-rates-wrong-at-checkout-increase-in-rates/375370)
+**Date:** 2024
+
+> Shipping prices being off for extended periods, with rates being either too high or unrealistically low. Rate shown at checkout differs significantly from actual label cost. Express checkout (Apple Pay, Google Pay) doesn't provide full address for carrier-calculated rates.
+
+**Key issue:** Inaccurate shipping calculations, rate mismatch
+
+---
+
+## Email Marketing
+
+---
+**Source:** [Reliability of Shopify Mail for marketing emails?](https://community.shopify.com/t/reliability-of-shopify-mail-for-marketing-emails-15k-subscribers/321439)
+**Date:** 2024
+
+> "Tried using Shopify mail to send out a marketing blast to a few thousand people, and it failed." Reliability concerns for larger subscriber lists.
+
+**Key issue:** Shopify Email unreliable at scale
+
+---
+
+## Trustpilot Reviews (1.3/5 stars, 86% 1-star, 4,000+ reviews)
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Vinston Fuller
+**Date:** March 11, 2026
+
+> AI features unreliable and unhelpful. Struggled 6 hours replacing a URL; support described as minimal with unresponsive third parties.
+
+**Key issue:** AI tools broken, support useless
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Linda Joffe
+**Date:** March 10, 2026
+
+> Unable to access store for 3 weeks. After providing security documents March 2, still locked out with no resolution.
+
+**Key issue:** 3-week lockout
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Chemseddine Belghith
+**Date:** March 9, 2026
+
+> Store locked for 3 weeks due to previous owner's negative balance despite providing legal purchase documentation proving new ownership.
+
+**Key issue:** New owner punished for old owner's debt
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** David Wolderufael
+**Date:** March 9, 2026
+
+> "6 online stores with Shopify... no sales at all for the last 3 months... waste of time and money."
+
+**Key issue:** Platform doesn't help you sell
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Stephen Crowther
+**Date:** March 8, 2026
+
+> "Support used to be top-notch... absolutely garbage now... cannot solve simplest problems."
+
+**Key issue:** Support decline
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Abdullateef
+**Date:** March 7, 2026
+
+> Shopify Payments unavailable in Saudi Arabia; third-party gateway activation takes weeks with complicated integration.
+
+**Key issue:** International payment gateway limitations
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Scott Clyde
+**Date:** March 7, 2026
+
+> No phone support; couldn't stop charges; had to "close my bank account and switch banks to stop them from stealing."
+
+**Key issue:** Can't cancel, unauthorized charges
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** APS Foundation of America, Inc
+**Date:** March 5, 2026
+
+> "Biggest money suck ever to the point we have to close shop... why can't people keep it simple and affordable?"
+
+**Key issue:** Unsustainable costs forcing store closure
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Mark Askew
+**Date:** March 4, 2026
+
+> "3 weeks issues with 'storage full' messages... using 3mb of 100gb allowance... support says they're working on it."
+
+**Key issue:** Platform bugs unresolved for weeks
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Maxi Rotti
+**Date:** March 7, 2026
+
+> After 10 years, costs increased 3x with rising transaction percentages. Shopify removed Customer Reviews feature, forcing third-party apps.
+
+**Key issue:** Price increases and removed features for 10-year customer
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Jeff W
+**Date:** February 24, 2026
+
+> After 6 years: "awful customer support" where "agents are very friendly, but they can never solve any problems for you."
+
+**Key issue:** Friendly but incompetent support
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Evgeniya
+**Date:** February 24, 2026
+
+> Required to upgrade from basic plan to Grow plan (£65/month) to access previously included shipping feature.
+
+**Key issue:** Features removed and paywalled
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** San
+**Date:** February 25, 2026
+
+> "You will have to use a paid third party app to export full customer data accurately" despite being a multi-billion dollar company.
+
+**Key issue:** Can't export your own data without paying extra
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Giorgio Di Vicino
+**Date:** February 25, 2026
+
+> Account suspended without warning despite compliance. "I have not yet received a clear response explaining the reason for the block."
+
+**Key issue:** Unexplained suspension
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Pernille
+**Date:** February 4, 2026
+
+> "Despite this, the chargeback was accepted and the funds were permanently withdrawn from my account." Had proof of delivery.
+
+**Key issue:** Lost chargeback despite having evidence
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** ASIAS Staff
+**Date:** February 3, 2026
+
+> "They charge us a fee for a platform with services they promise us access to, yet they purposefully mess up those services."
+
+**Key issue:** Intentional service degradation to upsell apps
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Joseph Feinstein
+**Date:** February 1, 2026
+
+> "Locked out of all their mobile apps for 2 weeks... Shopify literally shut down my website for half a day."
+
+**Key issue:** Website shutdown over phone number change
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Justo Gabriel Andaluz
+**Date:** February 1, 2026
+
+> "Going from $29/mo... to $79/mo... nearly triple... for ONE SINGLE feature that is as basic as they come."
+
+**Key issue:** Price tripled for one basic feature
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Begum Jariyawiriya
+**Date:** January 31, 2026
+
+> "I am expected to cover $120 out of my own pocket for a product I didn't even sell, just to be able to refund my customer."
+
+**Key issue:** Merchant pays out of pocket to issue refunds
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Scott
+**Date:** February 3, 2026
+
+> "I purchased a 65\" Hisense TV. What I got was a solar powered wall light worth £5.00. Shopify closed my account down when I complained."
+
+**Key issue:** Platform punishes fraud victims who complain
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Thomas Polucki
+**Date:** February 4, 2026
+
+> "After initiating cancellation, I was charged for an additional billing cycle and could not obtain customer support."
+
+**Key issue:** Charged after cancellation
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Jay Davis
+**Date:** February 20, 2026
+
+> "Their AI Sidekick is useless... disorganized no step by step plan."
+
+**Key issue:** AI tools don't work
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Felice Frisart
+**Date:** February 22, 2026
+
+> "Shopify HOLD... customers don't get paid back because they hold the money."
+
+**Key issue:** Payment holds block customer refunds
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Quazi
+**Date:** March 10, 2026
+
+> "Shopify is essentially a legalized scam." Funds held for weeks without explanation while platform collects subscription fees and transaction cuts immediately.
+
+**Key issue:** Funds held hostage, immediate fee collection
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Shane Buckham
+**Date:** February 10, 2026
+
+> "The system forces you to use the currency of the delivery address so they can make more money out of the conversion fees."
+
+**Key issue:** Forced currency conversion to extract fees
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Chris Hettwer
+**Date:** February 9, 2026
+
+> Long-term frustrations: discontinued themes forced redesigns, domain verification failures, and surge in fraudulent orders.
+
+**Key issue:** Theme discontinuation, forced redesigns
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Grace Cassie
+**Date:** February 9, 2026
+
+> "They help you create a store no free options, then they tell you you will pay 0 for 3 months when on trial" — then charged $270 unexpectedly.
+
+**Key issue:** Misleading trial pricing
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Lyl Rom
+**Date:** February 7, 2026
+
+> Monthly fees plus transaction charges provide zero vendor protection; support offers scripted responses.
+
+**Key issue:** Fees but no merchant protection
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Jackson Colman
+**Date:** February 4, 2026
+
+> Domain management violates ICANN rules; subscription required to access domains; slow release process.
+
+**Key issue:** Domains held hostage behind subscription
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Lloyd Smith
+**Date:** February 6, 2026
+
+> Shopify Payments holds merchant funds indefinitely with blocked accounts and unanswered support inquiries.
+
+**Key issue:** Funds held indefinitely, no support response
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Nataly Novosad
+**Date:** February 5, 2026
+
+> Charged for six months on closed, unused store; support created circular loops with contradictory responses across departments.
+
+**Key issue:** Charged 6 months after closing store
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Hashim Raza
+**Date:** March 12, 2026
+
+> "15+ Days with No Response, No Tracking, and No Support." Complete radio silence on order fulfillment.
+
+**Key issue:** No support response for 15+ days
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Glyn
+**Date:** March 11, 2026
+
+> No support from Shopify and 4 months later no item received.
+
+**Key issue:** No support, unresolved order for 4 months
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Adam Keane
+**Date:** March 8, 2026
+
+> Platform described as a "haven for scammers."
+
+**Key issue:** Platform enables scam stores
+
+---
+**Source:** [Trustpilot](https://www.trustpilot.com/review/www.shopify.com)
+**User:** Paul
+**Date:** March 11, 2026
+
+> Accidental purchase at checkout with "no way to cancel."
+
+**Key issue:** No order cancellation mechanism for buyers
